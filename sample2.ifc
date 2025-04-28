@@ -1,7 +1,7 @@
 ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('ViewDefinition[DesignTransferView]'),'2;1');
-FILE_NAME('sample.ifc','2025-04-28T14:44:04+09:00',(''),(''),'IfcOpenShell 0.8.2','Bonsai 0.8.2','Nobody');
+FILE_NAME('sample2.ifc','2025-04-28T14:44:45+09:00',(''),(''),'IfcOpenShell 0.8.2','Bonsai 0.8.2','Nobody');
 FILE_SCHEMA(('IFC4'));
 ENDSEC;
 DATA;
